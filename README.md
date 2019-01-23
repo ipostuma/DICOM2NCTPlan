@@ -14,7 +14,7 @@ The parameter you need to give the the bash script is the base name of the dicom
 ### getROI.sh usage
 
 ```
-bash getROI.sh DICOM_FILES_BASE_NAME RTSTRUCT_FILE
+$ bash getROI.sh DICOM_FILES_BASE_NAME RTSTRUCT_FILE
 ```
 
 DICOM\_FILES\_BASE\_NAME is the common part of the dicom file names, RTSTRUCT\_FILE has to be the path to the RTSTRUCT file.
